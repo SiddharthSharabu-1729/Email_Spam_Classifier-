@@ -12,3 +12,8 @@ To run this :
 
 
 > If you dont Know how to create an App Password then click [here](https://support.google.com/accounts/answer/185833?hl=en)
+
+
++ The **Results** Folder will store all the Training Details
++ The **Logs** Folder will store all the log files while Training and Validating Your Emails
++ The **Output** Folder will store all your Classified Emails in text file
