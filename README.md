@@ -4,4 +4,4 @@
 
 To run this :
 
-1. First you clone this repository and run <pip3 install requirements.txt>
+1. First you clone this repository and run `pip3 install requirements.txt`
