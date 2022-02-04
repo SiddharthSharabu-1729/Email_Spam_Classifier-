@@ -1,0 +1,8 @@
+tensorflow
+keras
+scikit-learn
+pickle
+numpy
+tqdm
+imaplib
+email
