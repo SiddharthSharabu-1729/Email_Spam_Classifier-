@@ -17,3 +17,5 @@ To run this :
 + The **Results** Folder will store all the Training Details
 + The **Logs** Folder will store all the log files while Training and Validating Your Emails
 + The **Output** Folder will store all your Classified Emails in text file
+
+> In Jupyter Folder you can find the same Jupyter Notebook Files Which can just open and run
