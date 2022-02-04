@@ -8,6 +8,9 @@ from utilities import load
 
 __author__ = "Siddharth Achari Sharabu"
 
+print("\n")
+print("If You Dont Know your AppPassword and Dont Know how to set it click on the link here\nhttps://support.google.com/accounts/answer/185833?hl=en")
+print("\n")
 
 username = input("Enter the GmailAddress:\t")
 password = input('Enter the App password of your Gmail Address :\t')
